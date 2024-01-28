@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587119946227",
+    "project_id": "chatgal",
+    "storage_bucket": "chatgal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587119946227:android:aa5e76c74db1b3c0210a86",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xNIZ-Vd0OyN4FUw-EGTsVZTJVGdKBYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
